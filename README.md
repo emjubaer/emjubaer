@@ -1,19 +1,19 @@
+ 
 <!--
   GitHub Profile README for @emjubaer
-  Keep project descriptions and skills aligned with your actual repositories.
 -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="emjubaer | Junior Back-End Developer" width="100%" />
+  <img src="assets/banner.png" alt="Jubaer | Junior Back-End Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Jubaer 👋</h1>
 
-<h3 align="center">Junior Back-End Developer | PHP • Laravel • MySQL</h3>
+<h3 align="center">Junior Back-End Developer | PHP • Laravel • Node.js</h3>
 
 <p align="center">
-  I build practical web applications and RESTful APIs, with a focus on clean backend logic,
-  secure authentication, database design, and maintainable code.
+  Focused on building reliable backend applications, designing RESTful APIs,
+  and developing maintainable software solutions.
 </p>
 
 <p align="center">
@@ -29,33 +29,40 @@
 
 ## 👨‍💻 About Me
 
+I'm a Junior Back-End Developer with a strong interest in building reliable, scalable, and maintainable web applications.
+
 - 🎓 Computer Science and Engineering student.
-- 💻 Junior Back-End Developer focused on PHP and Laravel.
-- 🔧 Interested in REST API development, authentication, authorization, and database design.
-- 🌱 Expanding my skills in React, Next.js, and modern web application development.
-- 🤝 I enjoy learning by building projects and solving practical problems.
+- 💻 Primarily focused on PHP and Laravel backend development.
+- 🏗️ Interested in backend architecture, API design, database architecture, and application performance.
+- 🧩 Enjoy translating real-world requirements into practical software solutions.
+- 🌱 Currently expanding my backend development skills with Node.js while continuing to strengthen my Laravel expertise.
+- 🚀 Believe in writing clean, maintainable code and continuously improving through hands-on projects.
 
 ## 🎯 Current Focus
 
-- Building RESTful APIs with Laravel.
-- Applying Laravel Sanctum for token-based authentication.
-- Writing maintainable code with service classes, form requests, policies, and API resources.
-- Improving MySQL schema design and query efficiency.
-- Understanding modern React and Next.js application patterns.
+- Developing RESTful APIs and backend applications using Laravel.
+- Exploring Node.js and its ecosystem for server-side development.
+- Improving application architecture through service-based design and separation of concerns.
+- Working with MySQL, database relationships, query optimization, and data integrity.
+- Strengthening API integration, error handling, and application performance.
+- Building practical projects to improve problem-solving and software engineering skills.
 
 ## 🧰 Tech Stack
 
 ### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="PHP, Laravel, MySQL" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" alt="PHP, Laravel, Node.js, MySQL" />
 </p>
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
 </p>
 
 ### Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code" />
 </p>
@@ -63,6 +70,7 @@
 ## 🚀 Featured Projects
 
 ### 1. Support Ticket System
+
 A Laravel-based support ticket platform with a REST API and web dashboards for admins, agents, and customers.
 
 - Role-based access for `admin`, `agent`, and `customer`.
@@ -76,6 +84,7 @@ A Laravel-based support ticket platform with a REST API and web dashboards for a
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/emjubaer/support-ticket-api)
 
 ### 2. TinyLink - URL Shortener API
+
 A REST API for creating, managing, and tracking shortened URLs.
 
 - Token-based authentication with Laravel Sanctum.
@@ -88,6 +97,7 @@ A REST API for creating, managing, and tracking shortened URLs.
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/emjubaer/laravel-url-shortener-api)
 
 ### 3. DevStack
+
 A React application for exploring development technologies and building a personal tech stack.
 
 - Browse technology cards by category and difficulty.
@@ -101,25 +111,48 @@ A React application for exploring development technologies and building a person
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emjubaer&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Jubaer's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjubaer&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emjubaer&theme=github_dark"
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=emjubaer&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=emjubaer&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emjubaer&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=emjubaer&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emjubaer&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <img
+    src="https://raw.githubusercontent.com/emjubaer/emjubaer/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ## 🌱 Currently Learning
 
-- Advanced Laravel application architecture
-- React and Next.js
-- API design and integration
+- Node.js and server-side JavaScript development
+- Backend application architecture and API development
+- Advanced Laravel concepts and best practices
 - Database optimization and system design fundamentals
 
 ## 🤝 Connect With Me
