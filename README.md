@@ -7,7 +7,7 @@
   <img src="assets/banner.png" alt="Jubaer | Junior Back-End Developer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Jubaer 👋</h1>
+<h1 align="center">Hi, I'm Ehsanul Mahbub Jubaer 👋</h1>
 
 <h3 align="center">Junior Back-End Developer | PHP • Laravel • Node.js</h3>
 
